@@ -1,5 +1,0 @@
-
-INITIAL SETUP REQUIREMENTS  
-  
-In order to execute the tests user should have fulfilled the following preconditions  
-1.	Install Newman - command-line collection runner for Postman which could be downloaded from [Newman NPM Package](https://www.npmjs.com/package/newman)
