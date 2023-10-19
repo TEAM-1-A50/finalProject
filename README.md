@@ -55,17 +55,17 @@ Install Newman - command-line collection runner for Postman which could be downl
 
 **REST Assured collection**
 
-[for Windows](ExecutableTests/TestNG REST Assured Suite Run With Surefire Report.bat)\
+[for Windows](<ExecutableTests/TestNG REST Assured Suite Run With Surefire Report.bat>)\
 [for macOS](ExecutableTests/run-all-restassured-tests.sh)
 
 **Selenium collection**
 
-[for Windows](ExecutableTests/TestNG Selenium WebDriver Suite Run With Surefire Report.bat)\
+[for Windows](<ExecutableTests/TestNG Selenium WebDriver Suite Run With Surefire Report.bat>)\
 [for macOS](ExecutableTests/run-all-selenium-tests.sh)
 
 
 ## Reports
 All report documentation can be found below: 
-- ### [Test Report](TestPlan/Test Plan.pdf)
+- ### [Test Report](<TestPlan/Test Plan.pdf>)
 - ### [Jira Dashboard](https://t1-final-project.atlassian.net/jira/dashboards/10000) with test metrics
 - ### [Jira Bug reports](https://t1-final-project.atlassian.net/jira/software/c/projects/BUG/issues)
