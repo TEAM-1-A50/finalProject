@@ -1,4 +1,6 @@
-# finalProject
+What is all about.  
+It's about quality assurance of required services.  
+How do we deliver it? - By delivering structured approach to testing activities, verifying that the software comply with the requirements and is production-ready. to see how we did it - # finalProject
 Team "I" is a collaborative force of three distinct individuals, each contributing their unique skills and expertise in quality assurance and infrastructure projects. Together, we managed to form a well-rounded team devoted to the project.  
 •	Teodora Hristova - QA Specialist: With a proven track record in manual testing projects, Tedi brought her experience and precision in the team. Her attention to detail and knack for uncovering even the most elusive bugs make her an invaluable asset to the team;  
 •	Ivajlo Tabakov - Infrastructure Engineer: Ivaylo's expertise spans a broad spectrum of infrastructure projects, complemented by an extensive background in Java development. His developed abilities  from the infrastructure and software ensures that the technical backbone of our projects is not only robust but finely tuned;  
