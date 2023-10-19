@@ -3,3 +3,4 @@ It's about quality assurance of provided services.
 How do we deliver it? - By delivering structured approach to testing activities, verifying that the software comply with the requirements and is production-ready. to see how we did it - [GitHub Repository](https://github.com/TEAM-1-A50/ "finalProject")  
 Who did it?  
 Team I - wanna now more? [Link to "Team I" File](https://github.com/TEAM-1-A50/finalProject/blob/main/Team%20I)
+Wanna see the Test report? 
