@@ -41,10 +41,30 @@ in the world of technology and project delivery.
 
 
 ## How to run the tests
-Postman collection\
+### Postman collection precondition:
+Install Newman - command-line collection runner for Postman which could be downloaded from
+[Newman NPM Package](https://www.npmjs.com/package/newman)
+
+[For Windows]()\
+[For macOS]()
+
+### REST Assured and Selenium preconditions:
+1.	Install Apache Maven. The software could be downloaded from [Download Apache Maven](https://maven.apache.org/download.cgi)
+2.	Install Git. The software could be downloaded from [Install Git Guide](https://github.com/git-guides/install-git)
+3.  for macOS only: download and install chromedriver with [homebrew](https://formulae.brew.sh/cask/chromedriver)
+
+**REST Assured collection**
+
+for Windows
+
+for macOS
+
+**Selenium collection**
+
+for Windows
 
 
-REST Assured & Selenium collection\
+for macOS
 
 
 ## Reports
