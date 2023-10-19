@@ -19,7 +19,7 @@ that the technical backbone of our projects is not only robust but finely tuned;
 •  **Ivan Petkov** [@ivanpetkova5](https://www.github.com/ivanpetkova5) - Aspiring QA Engineer: A passionate newcomer 
 to the QA field, Ivan injects chaos and exploration into the team. His extensive background in project delivery 
 equips him with a keen understanding of the demands of the industry, and his dedication to mastering the art of QA 
-engineering makes him an asset to the team.
+engineering makes him an asset to the team;
 
 Together, our collective skills, diverse backgrounds, and shared dedication to quality make us a formidable force 
 in the world of technology and project delivery.
@@ -45,7 +45,7 @@ in the world of technology and project delivery.
 Install Newman - command-line collection runner for Postman which could be downloaded from
 [Newman NPM Package](https://www.npmjs.com/package/newman)
 
-[For Windows]()\
+[For Windows](ExecutableTests/runPostmanWin.bat)\
 [For macOS](ExecutableTests/run-all-postman-tests.sh)
 
 ### REST Assured and Selenium preconditions:
@@ -55,17 +55,17 @@ Install Newman - command-line collection runner for Postman which could be downl
 
 **REST Assured collection**
 
-[for Windows](ExecutableTests/TestNG REST Assured Suite Run With Surefire Report.bat)
+[for Windows](ExecutableTests/TestNG REST Assured Suite Run With Surefire Report.bat)\
 [for macOS](ExecutableTests/run-all-restassured-tests.sh)
 
 **Selenium collection**
 
-[for Windows](ExecutableTests/TestNG Selenium WebDriver Suite Run With Surefire Report.bat
+[for Windows](ExecutableTests/TestNG Selenium WebDriver Suite Run With Surefire Report.bat)\
 [for macOS](ExecutableTests/run-all-selenium-tests.sh)
 
 
 ## Reports
 All report documentation can be found below: 
-- ### [Test Report]()
+- ### [Test Report](TestPlan/Test Plan.pdf)
 - ### [Jira Dashboard](https://t1-final-project.atlassian.net/jira/dashboards/10000) with test metrics
 - ### [Jira Bug reports](https://t1-final-project.atlassian.net/jira/software/c/projects/BUG/issues)
