@@ -55,15 +55,12 @@ Install Newman - command-line collection runner for Postman which could be downl
 
 **REST Assured collection**
 
-for Windows
-
+[for Windows](ExecutableTests/TestNG REST Assured Suite Run With Surefire Report.bat)
 [for macOS](ExecutableTests/run-all-restassured-tests.sh)
 
 **Selenium collection**
 
-for Windows
-
-
+[for Windows](ExecutableTests/TestNG Selenium WebDriver Suite Run With Surefire Report.bat
 [for macOS](ExecutableTests/run-all-selenium-tests.sh)
 
 
