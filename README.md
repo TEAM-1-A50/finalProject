@@ -27,10 +27,10 @@ in the world of technology and project delivery.
 
 
 ## Documentation
-- ### [Test plan](https://telerikacademy-my.sharepoint.com/:b:/p/ivan_petkov_a50_learn/ET4PhHxKEVZGoZLvt3OHNc0By7BUAnbn1gDkS1xVRMwM_Q?e=40Oe4G)
-- ### App features diagrams
-- ### [Test case template](https://github.com/TEAM-1-A50/finalProject/blob/main/templates/Test%20Case%20Template.pdf)
-- ### [Bug report template](https://github.com/TEAM-1-A50/finalProject/blob/main/templates/Bug%20Report%20Template.pdf)
+- ### [Test plan](TestPlan/Test Plan.pdf)
+- ### [App features diagrams](TestPlan/WEare Diagrams.pdf)
+- ### [Test case template](templates/Test Case Template.pdf)
+- ### [Bug report template](templates/Bug Report Template.pdf)
 
 
 
@@ -66,6 +66,6 @@ Install Newman - command-line collection runner for Postman which could be downl
 
 ## Reports
 All report documentation can be found below: 
-- ### [Test Report](https://github.com/TEAM-1-A50/finalProject/blob/main/Test%20Report.pdf)
+- ### [Test Report]()
 - ### [Jira Dashboard](https://t1-final-project.atlassian.net/jira/dashboards/10000) with test metrics
 - ### [Jira Bug reports](https://t1-final-project.atlassian.net/jira/software/c/projects/BUG/issues)
