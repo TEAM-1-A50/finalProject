@@ -46,7 +46,7 @@ Install Newman - command-line collection runner for Postman which could be downl
 [Newman NPM Package](https://www.npmjs.com/package/newman)
 
 [For Windows]()\
-[For macOS]()
+[For macOS](https://github.com/TEAM-1-A50/finalProject/blob/main/run-all-postman-tests.sh)
 
 ### REST Assured and Selenium preconditions:
 1.	Install Apache Maven. The software could be downloaded from [Download Apache Maven](https://maven.apache.org/download.cgi)
