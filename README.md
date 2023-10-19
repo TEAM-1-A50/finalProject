@@ -1,9 +1,8 @@
-What is all about?  
-It's about quality assurance of provided services.  
-How do we deliver it? - By delivering structured approach to testing activities, verifying that the software comply with the requirements and is production-ready. to see how we did it - [GitHub Repository](https://github.com/TEAM-1-A50/ "finalProject")  
-Who did it?  
-Team I - wanna now more? [Link to "Team I" File](https://github.com/TEAM-1-A50/finalProject/blob/main/Team%20I)
-Wanna see the Test report? 
+Welcome to our final Quality Assurance project at Telerik Academy. 
+Our project encompasses the meticulous planning and precise execution of the testing procedures 
+for the social networking application - WEare. Within this repository, you will find a comprehensive 
+collection of documentation and testing artifacts that have been meticulously curated throughout this journey.
+Additionally, you'll discover links to our test collections and detailed instructions on how to run them.
 
 
 
@@ -14,7 +13,7 @@ Wanna see the Test report?
 
 
 ## Documentation
-- ### Test plan
+- ### [Test plan](https://telerikacademy-my.sharepoint.com/:b:/p/ivan_petkov_a50_learn/ET4PhHxKEVZGoZLvt3OHNc0By7BUAnbn1gDkS1xVRMwM_Q?e=40Oe4G)
 - ### App features diagrams
 - ### Test case template
 - ### Bug report template
