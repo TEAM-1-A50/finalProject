@@ -29,16 +29,15 @@ in the world of technology and project delivery.
 ## Documentation
 - ### [Test plan](https://telerikacademy-my.sharepoint.com/:b:/p/ivan_petkov_a50_learn/ET4PhHxKEVZGoZLvt3OHNc0By7BUAnbn1gDkS1xVRMwM_Q?e=40Oe4G)
 - ### App features diagrams
-- ### Test case template
-- ### Bug report template
+- ### [Test case template](https://github.com/TEAM-1-A50/finalProject/blob/main/templates/Test%20Case%20Template.pdf)
+- ### [Bug report template](https://github.com/TEAM-1-A50/finalProject/blob/main/templates/Bug%20Report%20Template.pdf)
 
 
 
 ## Test collections
-
 - ### [Jira Board](https://t1-final-project.atlassian.net/jira/software/c/projects/WEARE/issues) 
-- ### Postman collection
-- ### REST Assured & Selenium
+- ### [Postman collection](https://github.com/TEAM-1-A50/WEare-API-Postman)
+- ### [REST Assured & Selenium](https://github.com/TEAM-1-A50/WEare-API-UI)
 
 
 ## How to run the tests
@@ -50,6 +49,6 @@ REST Assured & Selenium collection\
 
 ## Reports
 All report documentation can be found below: 
-- ### Test Report
+- ### [Test Report](https://github.com/TEAM-1-A50/finalProject/blob/main/Test%20Report.pdf)
 - ### [Jira Dashboard](https://t1-final-project.atlassian.net/jira/dashboards/10000) with test metrics
 - ### [Jira Bug reports](https://t1-final-project.atlassian.net/jira/software/c/projects/BUG/issues)
