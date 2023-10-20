@@ -27,10 +27,10 @@ in the world of technology and project delivery.
 
 
 ## Documentation
-- ### [Test plan](TestPlan/Test Plan.pdf)
-- ### [App features diagrams](TestPlan/WEare Diagrams.pdf)
-- ### [Test case template](templates/Test Case Template.pdf)
-- ### [Bug report template](templates/Bug Report Template.pdf)
+- ### [Test plan](<TestPlan/Test Plan.pdf>)
+- ### [App features diagrams](<TestPlan/WEare Diagrams.pdf>)
+- ### [Test case template](<templates/Test Case Template.pdf>)
+- ### [Bug report template](<templates/Bug Report Template.pdf>)
 
 
 
