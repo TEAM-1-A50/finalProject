@@ -66,6 +66,6 @@ Install Newman - command-line collection runner for Postman which could be downl
 
 ## Reports
 All report documentation can be found below: 
-- ### [Test Report](<TestPlan/Test Plan.pdf>)
+- ### [Test Report](<TestReport/Test Report.pdf>)
 - ### [Jira Dashboard](https://t1-final-project.atlassian.net/jira/dashboards/10000) with test metrics
 - ### [Jira Bug reports](https://t1-final-project.atlassian.net/jira/software/c/projects/BUG/issues)
